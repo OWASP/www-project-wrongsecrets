@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Overview
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: wrongsecrets
 ---
 
-## Example
+## Overview
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+The application can best be run in a Docker container, as part of a K8s cluster. More overview details will follow later. For now consult the [Github repo readme](https://github.com/commjoen/wrongsecrets).

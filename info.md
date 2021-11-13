@@ -1,17 +1,35 @@
-### wrongsecrets Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Project Information
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* <i class="fas fa-egg" style="color:#53AAE5;"></i> Incubator project
+
+#### Classification
+
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
+
+### Getting Started
+
+* [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
+* [Online demo (Heroku Free)](https://wrongsecrets.herokuapp.com/)
+* [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/addo-example "WrongSecrets docker container")
+* [Download Releases](https://github.com/commjoen/wrongsecrets/releases "WrongSecrets releases")
+
+### Socials and Support
+
+* [Slack Channel](https://owasp.slack.com/messages/project-wrongsecrets)([Self-registration](https://owasp.org/slack/invite))
+* [Twitter](https://twitter.com/commjoenie "Twitter Jeroen Willemsen")
+* [Twitter](https://twitter.com/BJFdeHaan "Twitter Ben de Haan")
 
 ### Code Repository
-* [repo](#)
 
-### Change Log
-* [changes](#)
+* [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
 
+### Getting Involved
+
+* [Code of Conduct](https://github.com/commjoen/wrongsecrets/blob/master/CODE_OF_CONDUCT.md)
+* [Contributing to the project](https://github.com/commjoen/wrongsecrets/blob/master/CONTRIBUTING.md)
