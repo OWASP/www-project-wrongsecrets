@@ -1,22 +1,50 @@
 ---
 
 layout: col-sidebar
-title: OWASP wrongsecrets
-tags: example-tag
+title: OWASP WrongSecrets
+tags: wrongsecrets
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: tool
+pitch: Examples with how to not use secrets
 
 ---
+![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)
+[![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20project-48A646.svg)](https://owasp.org/projects/)
+[![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+![Image](https://raw.githubusercontent.com/commjoen/wrongsecrets/master/screenshot.png)
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Description
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 10 exercises with various "hidden" secrets - which you need to find.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## Contributors
 
-type: code, tool, documentation, or other
+[![GitHub contributors](https://img.shields.io/github/contributors/commjoen/wrongsecrets.svg)](https://github.com/commjoen/wrongsecrets/graphs/contributors)
+
+Leaders:
+
+- [Ben de Haan @bendehaan](https://github.com/bendehaan)
+- [Jeroen willemsen @commjoen](https://github.com/commjoen)
+
+Top contributors:
+
+- [Nanne Baars @nbaars](https://github.com/nbaars)
+
+Special mentions for helping out:
+
+- [Madhu Akula @madhuakula](https://github.com/madhuakula)
+- [Björn Kimminich @bkimminich](https://github.com/bkimminich)
+
+[Actual contributors at this point in time.](https://github.com/commjoen/wrongsecrets/graphs/contributors)
+
+## Licensing
+
+[![license](https://img.shields.io/github/license/commjoen/wrongsecrets.svg)](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE)
+
+This program is free software: You can redistribute it and/or modify it
+under the terms of the
+[MIT License](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE).
+OWASP Juice Shop and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2021.
