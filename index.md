@@ -12,7 +12,7 @@ pitch: Examples with how to not use secrets
 [![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
 
-OWASP Wrongsecrets is the first Secrets Management focused vulnerable/p0wnable app! It can be used in security trainings, awareness demo's and as a testing environment for secret detection tools, and bad practice detection tooling.
+OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling.
 
 ![Image](https://raw.githubusercontent.com/commjoen/wrongsecrets/master/screenshot.png)
 
