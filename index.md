@@ -8,7 +8,7 @@ type: tool
 pitch: Examples with how to not use secrets
 
 ---
-![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)
+[![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/commjoen/wrongsecrets/stargazers)
 [![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
 
