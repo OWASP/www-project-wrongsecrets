@@ -22,8 +22,8 @@
 ### Socials and Support
 
 * [Slack Channel](https://owasp.slack.com/messages/project-wrongsecrets)([Self-registration](https://owasp.org/slack/invite))
-* [Twitter](https://twitter.com/commjoenie "Twitter Jeroen Willemsen")
-* [Twitter](https://twitter.com/BJFdeHaan "Twitter Ben de Haan")
+* [Twitter Jeroen](https://twitter.com/commjoenie "Twitter Jeroen Willemsen")
+* [Twitter Ben](https://twitter.com/BJFdeHaan "Twitter Ben de Haan")
 
 ### Code Repository
 
