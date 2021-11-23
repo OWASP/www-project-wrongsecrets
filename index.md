@@ -32,6 +32,7 @@ Leaders:
 Top contributors:
 
 - [Nanne Baars @nbaars](https://github.com/nbaars)
+- [Filip Chyla](https://github.com/fchyla)
 
 Special mentions for helping out:
 
