@@ -35,6 +35,12 @@ Top contributors:
 - [Filip Chyla @fchyla](https://github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 
+Testers:
+
+- [Dave van Stein @davevs](https://github.com/davevs) 
+- [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
+- [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
+
 Special mentions for helping out:
 
 - [Madhu Akula @madhuakula](https://github.com/madhuakula)
