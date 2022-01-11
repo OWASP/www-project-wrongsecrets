@@ -16,7 +16,7 @@
 
 * [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
 * [Online demo (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
-* [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/addo-example "WrongSecrets docker container")
+* [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets "WrongSecrets docker container")
 * [Download Releases](https://github.com/commjoen/wrongsecrets/releases "WrongSecrets releases")
 
 ### Socials and Support
