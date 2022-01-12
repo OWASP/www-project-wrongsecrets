@@ -37,7 +37,7 @@ Top contributors:
 
 Testers:
 
-- [Dave van Stein @davevs](https://github.com/davevs) 
+- [Dave van Stein @davevs](https://github.com/davevs)
 - [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
 
@@ -56,3 +56,14 @@ This program is free software: You can redistribute it and/or modify it
 under the terms of the
 [MIT License](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE).
 OWASP Juice Shop and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2021.
+
+## Presentations about OWASP WrongSecrets
+
+The project has been promoted at:
+
+- [AllDayDevOps: Our secrets management journey from Code to Vault](https://www.alldaydevops.com/addo-speakers/jeroen-willemsen)
+- [Conf42 DevSecOps 2021: Secrets-management: challenges from code to cloud](https://www.youtube.com/watch?v=EsMS7gOBrY4)
+- [Club Cloud 2021: Securing your secrets in the cloud](https://youtu.be/lXMRTP5eg9Q)
+- [OWASP Dutch Chapter Meetup: Our Secrets Management Journey: From Code to Vault](https://www.youtube.com/watch?v=qR6JCkZgOlY)
+- [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets)
+- [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://open-security-summit.org/sessions/2022/jan/owasp/owasp_wrong_secrets_project_goals_under_the_hood_and_where_do_we_go_from_here/)
