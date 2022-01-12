@@ -8,4 +8,4 @@ tags: wrongsecrets
 
 ## Overview
 
-The application can best be run in a Docker container as part of a K8s cluster. Some challenges are unique to specific public clouds (AWS only for now). More overview details will follow later. Consult the [GitHub repo readme](https://github.com/commjoen/wrongsecrets) for more information.
+The application can best be run in a Docker container as part of a K8s cluster. Some challenges are unique to specific public clouds (AWS, GCP, and Azure only for now). More overview details will follow later. Consult the [GitHub repo readme](https://github.com/commjoen/wrongsecrets) for more information.
