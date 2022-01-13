@@ -55,7 +55,7 @@ Special mentions for helping out:
 This program is free software: You can redistribute it and/or modify it
 under the terms of the
 [MIT License](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE).
-OWASP Juice Shop and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2021.
+OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2021.
 
 ## Presentations about OWASP WrongSecrets
 
