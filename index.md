@@ -67,3 +67,5 @@ The project has been promoted at:
 - [OWASP Dutch Chapter Meetup: Our Secrets Management Journey: From Code to Vault](https://www.youtube.com/watch?v=qR6JCkZgOlY)
 - [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets)
 - [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://open-security-summit.org/sessions/2022/jan/owasp/owasp_wrong_secrets_project_goals_under_the_hood_and_where_do_we_go_from_here/)
+- [WrongSecrets demo - How not to store secrets with the project founder Jeroen Willemsen](https://www.youtube.com/watch?v=nqzxpgvLEv4&t=709s)
+- [Security Journey: Jeroen Willemsen and Ben de Haan - Dirty little secrets](https://www.youtube.com/watch?v=0HGPnQAYFNY)
