@@ -39,7 +39,7 @@ Top contributors:
 
 Testers:
 
-- [Dave van Stein @davevs](https://github.com/davevs) 
+- [Dave van Stein @davevs](https://github.com/davevs)
 - [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
 
