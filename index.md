@@ -35,10 +35,11 @@ Top contributors:
 - [Filip Chyla @fchyla](https://github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 - [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
+- [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
 
 Testers:
 
-- [Dave van Stein @davevs](https://github.com/davevs)
+- [Dave van Stein @davevs](https://github.com/davevs) 
 - [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
 
@@ -46,6 +47,7 @@ Special mentions for helping out:
 
 - [Madhu Akula @madhuakula](https://github.com/madhuakula)
 - [Björn Kimminich @bkimminich](https://github.com/bkimminich)
+- [Avinash Pancham @avinashpancham](https://github.com/avinashpancham)
 
 [Actual contributors at this point in time.](https://github.com/commjoen/wrongsecrets/graphs/contributors)
 
@@ -70,3 +72,8 @@ The project has been promoted at:
 - [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://open-security-summit.org/sessions/2022/jan/owasp/owasp_wrong_secrets_project_goals_under_the_hood_and_where_do_we_go_from_here/)
 - [WrongSecrets demo - How not to store secrets with the project founder Jeroen Willemsen](https://www.youtube.com/watch?v=nqzxpgvLEv4&t=709s)
 - [Security Journey: Jeroen Willemsen and Ben de Haan - Dirty little secrets](https://www.youtube.com/watch?v=0HGPnQAYFNY)
+
+Soon to come:
+
+- [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
+- TBA
