@@ -37,6 +37,7 @@ Top contributors:
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 - [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
 - [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
+- [Finn @f3rn0s](https://github.com/f3rn0s)
 
 Testers:
 
@@ -78,4 +79,4 @@ Soon to come:
 
 - [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.meetup.com/nl-NL/Bay-Area-OWASP/events/283894651/?_xtd=gqFyqDQ2MzY2NzMyoXCjYXBp&from=ref)
 - [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
-- TBA
+- TBA (3 and counting)
