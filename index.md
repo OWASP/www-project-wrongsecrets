@@ -8,6 +8,7 @@ type: tool
 pitch: Examples with how to not use secrets
 
 ---
+![logo](assets/images/icon.png)
 [![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/commjoen/wrongsecrets/stargazers)
 [![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
@@ -60,7 +61,7 @@ Special mentions for helping out:
 This program is free software: You can redistribute it and/or modify it
 under the terms of the
 [MIT License](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE).
-OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2021.
+OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2022.
 
 ## Presentations about OWASP WrongSecrets
 
@@ -74,9 +75,9 @@ The project has been promoted at:
 - [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://open-security-summit.org/sessions/2022/jan/owasp/owasp_wrong_secrets_project_goals_under_the_hood_and_where_do_we_go_from_here/)
 - [WrongSecrets demo - How not to store secrets with the project founder Jeroen Willemsen](https://www.youtube.com/watch?v=nqzxpgvLEv4&t=709s)
 - [Security Journey: Jeroen Willemsen and Ben de Haan - Dirty little secrets](https://www.youtube.com/watch?v=0HGPnQAYFNY)
+- [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.meetup.com/nl-NL/Bay-Area-OWASP/events/283894651/?_xtd=gqFyqDQ2MzY2NzMyoXCjYXBp&from=ref)
 
 Soon to come:
 
-- [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.meetup.com/nl-NL/Bay-Area-OWASP/events/283894651/?_xtd=gqFyqDQ2MzY2NzMyoXCjYXBp&from=ref)
 - [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
 - TBA (3 and counting)
