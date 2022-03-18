@@ -84,3 +84,4 @@ Soon to come:
 - [Code to Cloud Virtual Summit: Learn How to (Not) Use Secrets with OWASP WrongSecrets!](https://start.paloaltonetworks.com/code-to-cloud-summit.html)
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
 - OWASP Virtual Appsec Dublin 2022 (TBA)
+- Teqnation 2022 (TBA)
