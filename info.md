@@ -1,6 +1,6 @@
 ### Project Information
 
-* <i class="fas fa-egg" style="color:#53AAE5;"></i> Incubator project
+* <i class="fas fa-flask" style="color:#53AAE5;"></i> Lab Project
 
 #### Classification
 

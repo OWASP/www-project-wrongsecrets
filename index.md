@@ -11,7 +11,7 @@ pitch: Examples with how to not use secrets
 <img src="assets/images/icon.png" alt="logo by Ben de Haan" width="100px" />
 
 [![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/commjoen/wrongsecrets/stargazers)
-[![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20project-48A646.svg)](https://owasp.org/projects/)
+[![OWASP Lab Project](https://img.shields.io/badge/OWASP-lab%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
 
 OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling.
@@ -78,11 +78,11 @@ The project has been promoted at:
 - [WrongSecrets demo - How not to store secrets with the project founder Jeroen Willemsen](https://www.youtube.com/watch?v=nqzxpgvLEv4&t=709s)
 - [Security Journey: Jeroen Willemsen and Ben de Haan - Dirty little secrets](https://www.youtube.com/watch?v=0HGPnQAYFNY)
 - [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.meetup.com/nl-NL/Bay-Area-OWASP/events/283894651/?_xtd=gqFyqDQ2MzY2NzMyoXCjYXBp&from=ref)
+- [Code to Cloud Virtual Summit: Learn How to (Not) Use Secrets with OWASP WrongSecrets!](https://start.paloaltonetworks.com/code-to-cloud-summit.html)
 
 Soon to come:
 
 - [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
-- [Code to Cloud Virtual Summit: Learn How to (Not) Use Secrets with OWASP WrongSecrets!](https://start.paloaltonetworks.com/code-to-cloud-summit.html)
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
 - OWASP Virtual Appsec Dublin 2022 (TBA)
 - Teqnation 2022 (TBA)
