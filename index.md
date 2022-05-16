@@ -34,14 +34,16 @@ Leaders:
 Top contributors:
 
 - [Nanne Baars @nbaars](https://github.com/nbaars)
+- [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
 - [Filip Chyla @fchyla](https://github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 - [Josh Grossman @tghosth](https://github.com/tghosth)
+- [Spyros @northdpole](https://github.com/northdpole)
 - [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
 - [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
-- [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Finn @f3rn0s](https://github.com/f3rn0s)
+- [Joss Sparkes @remakingeden](https://github.com/remakingeden)
 
 Testers:
 
@@ -75,15 +77,17 @@ The project has been promoted at:
 - [Club Cloud 2021: Securing your secrets in the cloud](https://youtu.be/lXMRTP5eg9Q)
 - [OWASP Dutch Chapter Meetup: Our Secrets Management Journey: From Code to Vault](https://www.youtube.com/watch?v=qR6JCkZgOlY)
 - [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets)
-- [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://open-security-summit.org/sessions/2022/jan/owasp/owasp_wrong_secrets_project_goals_under_the_hood_and_where_do_we_go_from_here/)
+- [Open Security Summit: OWASP Wrong Secrets: project goals, under the hood, and where do we go from here?](https://www.youtube.com/watch?v=EYkjgGuhOYw)
 - [WrongSecrets demo - How not to store secrets with the project founder Jeroen Willemsen](https://www.youtube.com/watch?v=nqzxpgvLEv4&t=709s)
 - [Security Journey: Jeroen Willemsen and Ben de Haan - Dirty little secrets](https://www.youtube.com/watch?v=0HGPnQAYFNY)
-- [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.meetup.com/nl-NL/Bay-Area-OWASP/events/283894651/?_xtd=gqFyqDQ2MzY2NzMyoXCjYXBp&from=ref)
+- [Meetup OWASP Bay Area: OWASP WrongSecrets: how to NOT mange your secrets](https://www.youtube.com/watch?v=oRUPVhp1Bfw)
 - [Code to Cloud Virtual Summit: Learn How to (Not) Use Secrets with OWASP WrongSecrets!](https://start.paloaltonetworks.com/code-to-cloud-summit.html)
+- [Teqnation 2022 Utrecht](https://teqnation.com/timetable-2022/)
+
 
 Soon to come:
-
 - [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
-- OWASP Virtual Appsec Dublin 2022 (TBA)
-- Teqnation 2022 (TBA)
+- [OWASP Virtual Appsec Europe 2022: OWASP WrongSecrets: We have a secret for Everyone!](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Agenda)
+
+We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
