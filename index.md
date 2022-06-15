@@ -46,7 +46,6 @@ Top contributors:
 - [Finn @f3rn0s](https://github.com/f3rn0s)
 - [Alex Bender @alex-bender](https://github.com/alex-bender)
 
-
 Testers:
 
 - [Dave van Stein @davevs](https://github.com/davevs)
@@ -86,10 +85,11 @@ The project has been promoted at:
 - [Code to Cloud Virtual Summit: Learn How to (Not) Use Secrets with OWASP WrongSecrets!](https://start.paloaltonetworks.com/code-to-cloud-summit.html)
 - [Teqnation 2022 Utrecht](https://teqnation.com/timetable-2022/)
 - [Devops Pro Europe: Introducing OWASP WrongSecrets: How You Should NOT Handle Your Secrets](https://devopspro.lt/Jeroen-Willemsen/)
+- [OWASP Virtual Appsec Europe 2022: OWASP WrongSecrets: We have a secret for Everyone!](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Agenda)
 
 Soon to come:
 
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
-- [OWASP Virtual Appsec Europe 2022: OWASP WrongSecrets: We have a secret for Everyone!](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Agenda)
+
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
