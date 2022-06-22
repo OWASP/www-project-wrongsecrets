@@ -15,7 +15,6 @@
 ### Getting Started
 
 * [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
-* [Github repo binaries](https://github.com/commjoen/wrongsecrets-binaries "Github Repository for the binary challenges")
 * [Online demo (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
 * [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets "WrongSecrets docker container")
 * [Download Releases](https://github.com/commjoen/wrongsecrets/releases "WrongSecrets releases")
@@ -29,6 +28,7 @@
 ### Code Repository
 
 * [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
+* [Github repo binaries](https://github.com/commjoen/wrongsecrets-binaries "Github Repository for the binary challenges")
 
 ### Getting Involved
 
