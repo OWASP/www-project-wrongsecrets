@@ -8,4 +8,4 @@ tags: wrongsecrets
 
 ## CTF
 
-Currently we support playing CTFs with OWASP WrongSecrets! Want to know more? Have a look at [the github README](https://github.com/commjoen/wrongsecrets#ctf) and [the additional CTF documentation](https://github.com/commjoen/wrongsecrets/blob/master/ctf-instructions.md)
+We support playing CTFs with OWASP WrongSecrets! Want to know more? Have a look at [the Git repo README](https://github.com/commjoen/wrongsecrets#ctf) and [the additional CTF documentation](https://github.com/commjoen/wrongsecrets/blob/master/ctf-instructions.md)
