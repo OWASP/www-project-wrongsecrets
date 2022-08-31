@@ -7,6 +7,7 @@ tags: wrongsecrets
 ---
 
 ## Wrongsecrets Desktop
+[![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets-desktop.svg)](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets-desktop.svg)
 
 Want to try out the secrets-hunting, but don't want to install all the recommended tools? Try to use our [WrongSecrets desktop](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets-desktop).
 
