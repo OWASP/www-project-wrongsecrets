@@ -17,8 +17,9 @@
 * [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
 * [Online demo (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
 * [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
+* [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
 * [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets "WrongSecrets docker container")
-* [Get Latest Desktop](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets-desktop "WrongSecrets-desktop docker container")
+* [Get Latest WrongSecrets Desktop](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets-desktop "WrongSecrets-desktop docker container")
 * [Download Releases](https://github.com/commjoen/wrongsecrets/releases "WrongSecrets releases")
 
 ### Socials and Support
