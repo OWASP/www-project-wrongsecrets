@@ -93,6 +93,7 @@ The project has been promoted at:
 
 Soon to come:
 
-TBA
+- [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/news-events/events/devsecops/program.cfm) 
+- OWASP Hamburg Stammtich
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
