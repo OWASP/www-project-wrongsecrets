@@ -38,6 +38,7 @@ Top contributors:
 - [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Joss Sparkes @remakingeden](https://github.com/remakingeden)
 - [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
+- [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
 - [Filip Chyla @fchyla](https://github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 - [Josh Grossman @tghosth](https://github.com/tghosth)
