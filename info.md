@@ -15,7 +15,9 @@
 ### Getting Started
 
 * [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
-* [Online demo (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
+* [Wrongsecrets CTF party repo](https://github.com/commjoen/wrongsecrets-ctf-party "Github Repository")
+* [Online demo (Heroku Free)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a free Heroku Dyno")
+* [Online CTF demo env (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
 * [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
 * [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
 * [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets "WrongSecrets docker container")

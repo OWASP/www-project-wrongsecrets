@@ -21,7 +21,9 @@ OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable a
 
 ## Description
 
-WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 20 exercises with various "hidden" secrets - which you need to find.
+WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 25 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
+ - Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
+ - Help you to re-evaluate your own secrets management practices as well.
 
 ## Contributors
 
