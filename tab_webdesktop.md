@@ -16,7 +16,7 @@ Want to try out the secrets-hunting, but don't want to install all the recommend
 You can run all the tools and a desktop environment in a container by doing the following:
 
 ```shell
-docker run -p 3000:3000 jeroenwillemsen/wrongsecrets-desktop:1.5.2
+docker run -p 3000:3000 jeroenwillemsen/wrongsecrets-desktop:latest
 ```
 
 and open a browser at [http://localhost:3000](http://localhost:3000). 
