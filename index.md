@@ -25,6 +25,22 @@ WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It
  - Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
  - Help you to re-evaluate your own secrets management practices as well.
 
+## Want to play?
+
+There are multiple ways on how you can play/work with OWASP WrongSecrets. 
+Want to play locally? Try 
+
+```sh
+docker run -p 8080:8080  jeroenwillemsen/wrongsecrets:latest-no-vault
+``` 
+
+Otherwie try one of the following online environments:
+
+- [Online demo (Heroku Free)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a free Heroku Dyno")
+- [Online CTF demo env (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
+- [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
+- [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
+
 ## Contributors
 
 [![GitHub contributors](https://img.shields.io/github/contributors/commjoen/wrongsecrets.svg)](https://github.com/commjoen/wrongsecrets/graphs/contributors)
