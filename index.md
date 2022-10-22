@@ -110,10 +110,10 @@ The project has been promoted at:
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
 - [OWASP Frankfurt #55 In-Person Event: Cloud Secrets,Cyber-Crime & Threat Modeling: Can't you keep a secret? Learn Secrets Management with OWASP WrongSecrets by Dan Gora, OWASP Frankfurt](https://www.meetup.com/nl-NL/it-security-stammtisch-frankfurt-owasp-u-w/events/286925136/)
 - OWASP Hamburg Stammtich
+- [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/news-events/events/devsecops/program.cfm) 
 
 Soon to come:
 
-- [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/news-events/events/devsecops/program.cfm) 
-- Allday Devops
+- [AllDayDevOps - Learn how to (not) use secrets with OWASP WrongSecrets!](https://www.alldaydevops.com/addo-speakers/jeroen-willemsen)
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
