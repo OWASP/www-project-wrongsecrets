@@ -20,4 +20,4 @@ docker run -p 3000:3000 jeroenwillemsen/wrongsecrets-desktop:latest
 ```
 
 and open a browser at [http://localhost:3000](http://localhost:3000). 
-Want to know more? Checkout the [Readme at the WrongSecrets github repo](https://github.com/commjoen/wrongsecrets#want-to-play-but-are-not-allowed-to-install-the-tools).
+Want to know more? Checkout the [Readme at the WrongSecrets github repo](https://github.com/OWASP/wrongsecrets#want-to-play-but-are-not-allowed-to-install-the-tools).

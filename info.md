@@ -14,15 +14,15 @@
 
 ### Getting Started
 
-* [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
-* [Wrongsecrets CTF party repo](https://github.com/commjoen/wrongsecrets-ctf-party "Github Repository")
+* [Github repo](https://github.com/OWASP/wrongsecrets "Github Repository")
+* [Wrongsecrets CTF party repo](https://github.com/OWASP/wrongsecrets-ctf-party "Github Repository")
 * [Online demo (Heroku Free)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a free Heroku Dyno")
 * [Online CTF demo env (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
 * [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
 * [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
 * [Get Latest Docker](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets "WrongSecrets docker container")
 * [Get Latest WrongSecrets Desktop](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets-desktop "WrongSecrets-desktop docker container")
-* [Download Releases](https://github.com/commjoen/wrongsecrets/releases "WrongSecrets releases")
+* [Download Releases](https://github.com/OWASP/wrongsecrets/releases "WrongSecrets releases")
 
 ### Socials and Support
 
@@ -32,10 +32,10 @@
 
 ### Code Repository
 
-* [Github repo](https://github.com/commjoen/wrongsecrets "Github Repository")
-* [Github repo binaries](https://github.com/commjoen/wrongsecrets-binaries "Github Repository for the binary challenges")
+* [Github repo](https://github.com/OWASP/wrongsecrets "Github Repository")
+* [Github repo binaries](https://github.com/OWASP/wrongsecrets-binaries "Github Repository for the binary challenges")
 
 ### Getting Involved
 
-* [Code of Conduct](https://github.com/commjoen/wrongsecrets/blob/master/CODE_OF_CONDUCT.md)
-* [Contributing to the project](https://github.com/commjoen/wrongsecrets/blob/master/CONTRIBUTING.md)
+* [Code of Conduct](https://github.com/OWASP/wrongsecrets/blob/master/CODE_OF_CONDUCT.md)
+* [Contributing to the project](https://github.com/OWASP/wrongsecrets/blob/master/CONTRIBUTING.md)

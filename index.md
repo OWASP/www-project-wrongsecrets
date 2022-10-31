@@ -10,14 +10,14 @@ pitch: Examples with how to not use secrets
 ---
 <img src="assets/images/icon.png" alt="logo by Ben de Haan" width="100px" />
 
-[![Github Stars](https://img.shields.io/github/stars/commjoen/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/commjoen/wrongsecrets/stargazers)
+[![Github Stars](https://img.shields.io/github/stars/OWASP/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/OWASP/wrongsecrets/stargazers)
 [![OWASP Lab Project](https://img.shields.io/badge/OWASP-lab%20project-48A646.svg)](https://owasp.org/projects/)
-[![Release version](https://img.shields.io/github/v/release/commjoen/wrongsecrets)](https://github.com/commjoen/wrongsecrets/releases/latest)
+[![Release version](https://img.shields.io/github/v/release/OWASP/wrongsecrets)](https://github.com/OWASP/wrongsecrets/releases/latest)
 [![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)
 
 OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling.
 
-![Image](https://raw.githubusercontent.com/commjoen/wrongsecrets/master/screenshot.png)
+![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/screenshot.png)
 
 ## Description
 
@@ -43,7 +43,7 @@ Otherwie try one of the following online environments:
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/commjoen/wrongsecrets.svg)](https://github.com/commjoen/wrongsecrets/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/graphs/contributors)
 
 Leaders:
 
@@ -79,15 +79,15 @@ Special mentions for helping out:
 - [Björn Kimminich @bkimminich](https://github.com/bkimminich)
 - [Avinash Pancham @avinashpancham](https://github.com/avinashpancham)
 
-[Actual contributors at this point in time.](https://github.com/commjoen/wrongsecrets/graphs/contributors)
+[Actual contributors at this point in time.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
 
 ## Licensing
 
-[![license](https://img.shields.io/github/license/commjoen/wrongsecrets.svg)](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
 
 This program is free software: You can redistribute it and/or modify it
 under the terms of the
-[MIT License](https://github.com/commjoen/wrongsecrets/blob/master/LICENSE).
+[MIT License](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE).
 OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2022.
 
 ## Presentations about OWASP WrongSecrets
@@ -110,7 +110,7 @@ The project has been promoted at:
 - [Tweakers Developers Summit: OWASP WrongSecrets - waar je je applicatiegeheimen (niet) moet neerzetten](https://tweakers.net/partners/devsummit2022/1684/bendehaan/)
 - [OWASP Frankfurt #55 In-Person Event: Cloud Secrets,Cyber-Crime & Threat Modeling: Can't you keep a secret? Learn Secrets Management with OWASP WrongSecrets by Dan Gora, OWASP Frankfurt](https://www.meetup.com/nl-NL/it-security-stammtisch-frankfurt-owasp-u-w/events/286925136/)
 - OWASP Hamburg Stammtich
-- [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/news-events/events/devsecops/program.cfm) 
+- [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=887917) and [see the Youtube recording here](https://www.youtube.com/watch?v=bYDnMYkRUN0)
 
 Soon to come:
 

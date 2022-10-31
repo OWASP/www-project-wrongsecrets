@@ -12,4 +12,4 @@ The application can best be run as a [Docker container](https://hub.docker.com/r
 
 ![overview](assets/images/layerswithchallenges.png)
 
-The overview above nicely shows which technologies are mostly used to build up the full application. Consult the [GitHub repo readme](https://github.com/commjoen/wrongsecrets) for more information.
+The overview above nicely shows which technologies are mostly used to build up the full application. Consult the [GitHub repo readme](https://github.com/OWASP/wrongsecrets) for more information.
