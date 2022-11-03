@@ -81,6 +81,26 @@ Special mentions for helping out:
 
 [Actual contributors at this point in time.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
 
+### Sponsorships
+
+We would like to thank the following parties for helping us out:
+
+[![gitguardian_logo.png](assets/images/gitguardian_logo.jpeg)](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/)
+
+[GitGuardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/) for their sponsorship which allows us to pay the bills for our cloud-accounts.
+
+[![jetbrains_logo.png](assets/images/jetbrains_logo.png)](https://www.jetbrains.com/)
+
+[Jetbrains](https://www.jetbrains.com/) for licensing an instance of Intellij IDEA Ultimate edition to the project leads. We could not have been this fast with the development without it!
+
+[![docker_logo.png](assets/images/docker_logo.png)](https://www.docker.com)
+
+[Docker](https://www.docker.com) for granting us their Docker Open Source Sponsored program.
+
+[![1password_logo.png](assets/images/1password_logo.png)](https://github.com/1Password/1password-teams-open-source/pull/552)
+
+[1Password](https://github.com/1Password/1password-teams-open-source/pull/552) for granting us an open source license to 1Password for the secret detection testbed.
+
 ## Licensing
 
 [![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
