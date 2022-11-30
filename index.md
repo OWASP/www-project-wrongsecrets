@@ -135,6 +135,7 @@ The project has been promoted at:
 - [AllDayDevOps - Learn how to (not) use secrets with OWASP WrongSecrets!](https://www.alldaydevops.com/addo-speakers/jeroen-willemsen)
 - [Azure Cloud Security Group - Can't You Keep a Secret ? Cloud Native Secrets Management with OWASP Wrong Secrets](https://www.youtube.com/watch?v=Aafvip8XGDI)
 - [OWASP Benelux Days 2022 - CTF Kickoff](https://www.owaspbenelux.eu/program/conference#Jeroen-Willemsen-and-Ben-De-Haan) with actual [CTF info](https://www.owaspbenelux.eu/program/ctf)
+- [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Blogs by the author](https://dev.to/commjoen)
 
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
