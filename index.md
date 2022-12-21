@@ -17,7 +17,7 @@ pitch: Examples with how to not use secrets
 
 OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling.
 
-![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/screenshot.png)
+![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/images/screenshot.png)
 
 ## Description
 
