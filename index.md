@@ -109,10 +109,8 @@ We would like to thank the following parties for helping us out:
 
 [![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
 
-This program is free software: You can redistribute it and/or modify it
-under the terms of the
-[MIT License](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE).
-OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2022.
+This program is free software: You can redistribute it and/or modify it under the terms of the [AGPLv3 License](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE).
+OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2023.
 
 ## Presentations about OWASP WrongSecrets
 
