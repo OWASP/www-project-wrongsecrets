@@ -59,6 +59,7 @@ Top contributors:
 - [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
 - [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
 - [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
+- [Puneeth Y](https://github.com/puneeth072003)
 - [Filip Chyla @fchyla](https://github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 - [Josh Grossman @tghosth](https://github.com/tghosth)
@@ -136,7 +137,7 @@ The project has been promoted at:
 - [AllDayDevOps - Learn how to (not) use secrets with OWASP WrongSecrets!](https://www.alldaydevops.com/addo-speakers/jeroen-willemsen)
 - [Azure Cloud Security Group - Can't You Keep a Secret ? Cloud Native Secrets Management with OWASP Wrong Secrets](https://www.youtube.com/watch?v=Aafvip8XGDI)
 - [OWASP Benelux Days 2022 - CTF Kickoff](https://www.owaspbenelux.eu/program/conference#Jeroen-Willemsen-and-Ben-De-Haan) with actual [CTF info](https://www.owaspbenelux.eu/program/ctf)
-- [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Blogs by the author](https://dev.to/commjoen)
-
+- Various Blogs: [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Another blog by Gitguardian](https://blog.gitguardian.com/a-beginners-guide-to-owasp/), [Blogs by the author(s)](https://dev.to/commjoen), [A blog by Okteto](https://www.okteto.com/blog/practice-secrets-management-in-kubernetes-with-owasp-wrongsecrets-and-okteto/)
+- Various Vlogs [Devsec for scale: Secrets Management Pt 1](https://www.youtube.com/watch?v=dxgXUQZgUnI)[Devsec for scale: Secrets Management Pt 2](https://www.youtube.com/watch?v=_gY0T9vIl4E), [Devsec for scale: Secrets Management Pt 3](https://www.youtube.com/watch?v=vtUk2bc34AY)
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
