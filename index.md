@@ -38,10 +38,12 @@ docker run -p 8080:8080  jeroenwillemsen/wrongsecrets:latest-no-vault
 
 Otherwie try one of the following online environments:
 
-- [Online demo (Heroku Free)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a free Heroku Dyno")
-- [Online CTF demo env (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
+- [Online demo env (Heroku)](https://wrongsecrets.herokuapp.com/ "Online demo on a Heroku Dyno")
+- [Online CTF demo (Heroku, down sometimes)](https://wrongsecrets-ctf.herokuapp.com/ "Online CTF demo on a Heroku Dyno")
 - [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
 - [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
+- [Online CTF demo (Okteto Free)](https://wrongsecrets-ctf-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
+
 
 ## Contributors
 
