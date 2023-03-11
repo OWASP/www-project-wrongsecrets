@@ -13,7 +13,7 @@ pitch: Examples with how to not use secrets
 [![Github Stars](https://img.shields.io/github/stars/OWASP/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/OWASP/wrongsecrets/stargazers)
 [![OWASP Lab Project](https://img.shields.io/badge/OWASP-lab%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/OWASP/wrongsecrets)](https://github.com/OWASP/wrongsecrets/releases/latest)
-[![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)
+[![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this&url=https://github.com/OWASP/wrongsecrets&hashtags=secretsmanagement,secrets,hunting,p0wnableapp,OWASP,WrongSecrets)
 [<img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/app-icon.svg" width=16> Share on Mastodon](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets)
 
@@ -36,7 +36,7 @@ Want to play locally? Try
 docker run -p 8080:8080  jeroenwillemsen/wrongsecrets:latest-no-vault
 ``` 
 
-Otherwie try one of the following online environments:
+Otherwise, try one of the following online environments:
 
 - [Online demo env (Heroku)](https://wrongsecrets.herokuapp.com/ "Online demo on a Heroku Dyno")
 - [Online CTF demo (Heroku, down sometimes)](https://wrongsecrets-ctf.herokuapp.com/ "Online CTF demo on a Heroku Dyno")
@@ -108,12 +108,33 @@ We would like to thank the following parties for helping us out:
 
 [1Password](https://github.com/1Password/1password-teams-open-source/pull/552) for granting us an open source license to 1Password for the secret detection testbed.
 
+#### Individual supporters
+
+{% assign individual_supporter = site.data.ow_attributions | uniq %}
+{% for supporter in individual_supporter %}
+* {{ supporter | strip_html | strip_newlines | strip }}
+{% endfor %}
+* _You want to appear on this list?_
+  [Donate to OWASP here! 🤲](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)<!-- @IGNORE PREVIOUS: link -->
+
+
 ## Licensing
 
 [![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
 
 This program is free software: You can redistribute it and/or modify it under the terms of the [AGPLv3 License](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE).
 OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2023.
+
+## Want to help out?
+
+You can help us in many ways:
+
+- Star us on github: <a class="github-button" href="https://github.com/OWASP/WrongSecrets" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Star OWASP/WrongSecrets on GitHub">Star Wrongsecrets on Github</a>
+- Promote us using [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this&url=https://github.com/OWASP/wrongsecrets&hashtags=secretsmanagement,secrets,hunting,p0wnableapp,OWASP,WrongSecrets)
+[<img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/app-icon.svg" width=16> Mastodon](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets)
+- Promote us with a Blog, Vlog, Podcast, or presentation on a conference. Or use our materials to organize a CTF! If you do, let us know, so we can list your event or publication here on the webiste!
+- Work with us on the project! Take a look at the [Readme of the project](https://github.com/OWASP/wrongsecrets), [How to contribute](https://github.com/OWASP/wrongsecrets/blob/master/CONTRIBUTING.md), and the [Github Issues](https://github.com/OWASP/wrongsecrets/issues) (please comment an a not assigned issue, so we can assign it to you)
+- [Sponsor our project](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)! We will use the money for covering our cloud costs (building & maintaining the project in 3 clouds costs money). And soon we hope to be able to buy you some stickers if you do ;-).
 
 ## Presentations about OWASP WrongSecrets
 
