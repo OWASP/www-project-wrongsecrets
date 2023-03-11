@@ -41,3 +41,7 @@
 
 * [Code of Conduct](https://github.com/OWASP/wrongsecrets/blob/master/CODE_OF_CONDUCT.md)
 * [Contributing to the project](https://github.com/OWASP/wrongsecrets/blob/master/CONTRIBUTING.md)
+
+### Sponsoring
+
+* [Sponsor the project](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)
