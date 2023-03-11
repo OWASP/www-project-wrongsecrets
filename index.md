@@ -108,6 +108,16 @@ We would like to thank the following parties for helping us out:
 
 [1Password](https://github.com/1Password/1password-teams-open-source/pull/552) for granting us an open source license to 1Password for the secret detection testbed.
 
+#### Individual supporters
+
+{% assign individual_supporter = site.data.ow_attributions | uniq %}
+{% for supporter in individual_supporter %}
+* {{ supporter | strip_html | strip_newlines | strip }}
+{% endfor %}
+* _You want to appear on this list?_
+  [Donate to OWASP here! 🤲](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)<!-- @IGNORE PREVIOUS: link -->
+
+
 ## Licensing
 
 [![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
