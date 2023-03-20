@@ -1,18 +1,18 @@
 ---
-
 layout: col-sidebar
 title: OWASP WrongSecrets
 tags: wrongsecrets
 level: 3
 type: tool
 pitch: Examples with how to not use secrets
-
 ---
+
 <img src="assets/images/icon.png" alt="logo by Ben de Haan" width="100px" />
 
 [![Github Stars](https://img.shields.io/github/stars/OWASP/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/OWASP/wrongsecrets/stargazers)
 [![OWASP Lab Project](https://img.shields.io/badge/OWASP-lab%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/OWASP/wrongsecrets)](https://github.com/OWASP/wrongsecrets/releases/latest)
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7024/badge)](https://bestpractices.coreinfrastructure.org/projects/7024)
 [![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this&url=https://github.com/OWASP/wrongsecrets&hashtags=secretsmanagement,secrets,hunting,p0wnableapp,OWASP,WrongSecrets)
 [<img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/app-icon.svg" width=16> Share on Mastodon](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets)
@@ -24,17 +24,18 @@ OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable a
 ## Description
 
 WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 25 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
- - Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
- - Help you to re-evaluate your own secrets management practices as well.
+
+- Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
+- Help you to re-evaluate your own secrets management practices as well.
 
 ## Want to play?
 
-There are multiple ways on how you can play/work with OWASP WrongSecrets. 
-Want to play locally? Try 
+There are multiple ways on how you can play/work with OWASP WrongSecrets.
+Want to play locally? Try
 
 ```sh
 docker run -p 8080:8080  jeroenwillemsen/wrongsecrets:latest-no-vault
-``` 
+```
 
 Otherwise, try one of the following online environments:
 
@@ -43,7 +44,6 @@ Otherwise, try one of the following online environments:
 - [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
 - [Online demo (Okteto Free)](https://wrongsecrets-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
 - [Online CTF demo (Okteto Free)](https://wrongsecrets-ctf-commjoen.cloud.okteto.net/ "Online demo on a free Okteto namespace")
-
 
 ## Contributors
 
@@ -112,11 +112,11 @@ We would like to thank the following parties for helping us out:
 
 {% assign individual_supporter = site.data.ow_attributions | uniq %}
 {% for supporter in individual_supporter %}
-* {{ supporter | strip_html | strip_newlines | strip }}
-{% endfor %}
-* _You want to appear on this list?_
-  [Donate to OWASP here! 🤲](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)<!-- @IGNORE PREVIOUS: link -->
 
+- {{ supporter | strip_html | strip_newlines | strip }}
+  {% endfor %}
+- _You want to appear on this list?_
+  [Donate to OWASP here! 🤲](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)<!-- @IGNORE PREVIOUS: link -->
 
 ## Licensing
 
@@ -131,7 +131,7 @@ You can help us in many ways:
 
 - Star us on github: <a class="github-button" href="https://github.com/OWASP/WrongSecrets" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Star OWASP/WrongSecrets on GitHub">Star Wrongsecrets on Github</a>
 - Promote us using [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this&url=https://github.com/OWASP/wrongsecrets&hashtags=secretsmanagement,secrets,hunting,p0wnableapp,OWASP,WrongSecrets)
-[<img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/app-icon.svg" width=16> Mastodon](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets).
+  [<img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/app-icon.svg" width=16> Mastodon](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets).
 - Promote us with a Blog, Vlog, Podcast, or presentation on a conference. Or use our materials to organize a CTF! If you do, let us know, so we can list your event or publication here on the webiste.
 - Work with us on the project! Take a look at the [Readme of the project](https://github.com/OWASP/wrongsecrets), [How to contribute](https://github.com/OWASP/wrongsecrets/blob/master/CONTRIBUTING.md), and the [Github Issues](https://github.com/OWASP/wrongsecrets/issues). If you want to contribute to an issue: make sure it is not yet assigned to someone, comment on it with your intention, and then we can assign it to you.
 - [Sponsor our project](https://owasp.org/donate/?reponame=www-project-wrongsecrets&title=OWASP+wrongsecrets)! We will use the money for covering our cloud costs (building & maintaining the project in 3 clouds costs money). And soon we hope to be able to buy you some stickers if you do ;-).
