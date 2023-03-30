@@ -108,7 +108,7 @@ We would like to thank the following parties for helping us out:
 
 [1Password](https://github.com/1Password/1password-teams-open-source/pull/552) for granting us an open source license to 1Password for the secret detection testbed.
 
-[![AWS Open Source](images/aws-white_48x29.png)](https://aws.amazon.com/)
+[![AWS Open Source](assets/images/aws-white_48x29.png)](https://aws.amazon.com/)
 
 [AWS](https://aws.amazon.com/) for granting us AWS Open Source credits which we use to test our project and the [Wrongsecrets CTF Party](https://github.com/OWASP/wrongsecrets-ctf-party) setup on AWS.
 
