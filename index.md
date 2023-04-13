@@ -17,7 +17,7 @@ pitch: Examples with how to not use secrets
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this&url=https://github.com/OWASP/wrongsecrets&hashtags=secretsmanagement,secrets,hunting,p0wnableapp,OWASP,WrongSecrets)
 [<img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" width=86>](https://tootpick.org/#text=Want%20to%20dive%20into%20secrets%20management%20and%20do%20some%20hunting?%20try%20this%0A%0Ahttps://github.com/OWASP/wrongsecrets%20%23secretsmanagement,%20%23secrets,%20%23hunting,%20%23p0wnableapp,%20%23OWASP,%20%23WrongSecrets)
 
-OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used as a stand-alone game, in security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling. It even has a supporting CTF platform to play the game in a larger group.
+OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used as a stand-alone game, as part of security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling. It even has a supporting CTF platform to play the game in a larger group.
 
 ![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/images/screenshot.png)
 
