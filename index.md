@@ -51,40 +51,43 @@ Otherwise, try one of the following online environments:
 
 Leaders:
 
-- [Ben de Haan @bendehaan](https://github.com/bendehaan)
-- [Jeroen Willemsen @commjoen](https://github.com/commjoen)
+-   [Ben de Haan @bendehaan](https://github.com/bendehaan)
+-   [Jeroen Willemsen @commjoen](https://github.com/commjoen)
 
 Top contributors:
 
-- [Nanne Baars @nbaars](https://github.com/nbaars)
-- [Joss Sparkes @remakingeden](https://github.com/remakingeden)
-- [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
-- [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
-- [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
-- [Puneeth Y @puneeth072003](https://github.com/puneeth072003)
-- [Filip Chyla @fchyla](https://github.com/fchyla)
-- [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
-- [Josh Grossman @tghosth](https://github.com/tghosth)
-- [Spyros @northdpole](https://github.com/northdpole)
-- [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
-- [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
-- [Nicolas Humblot @nhumblot](https://github.com/nhumblot)
-- [Finn @f3rn0s](https://github.com/f3rn0s)
-- [Alex Bender @alex-bender](https://github.com/alex-bender)
-- [Rick M @kingthorin](https://github.com/kingthorin)
+-   [Nanne Baars @nbaars](https://github.com/nbaars)
+-   [Joss Sparkes @remakingeden](https://github.com/remakingeden)
+-   [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
+-   [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
+-   [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
+-   [Puneeth Y @puneeth072003](https://github.com/puneeth072003)
+-   [Filip Chyla @fchyla](https://github.com/fchyla)
+-   [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
+-   [Josh Grossman @tghosth](https://github.com/tghosth)
+-   [Turjo Chowdhury @turjoc120](https://github.com/turjoc120)
+-   [Spyros @northdpole](https://github.com/northdpole)
+-   [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
+-   [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
+-   [Shlomo Zalman Heigh @szh](https://github.com/szh)
+-   [Nicolas Humblot @nhumblot](https://github.com/nhumblot)
+-   [Madhu Akula @madhuakula](https://github.com/madhuakula)
+-   [Finn @f3rn0s](https://github.com/f3rn0s)
+-   [Alex Bender @alex-bender](https://github.com/alex-bender)
+-   [Rick M @kingthorin](https://github.com/kingthorin)
 
 Testers:
 
-- [Dave van Stein @davevs](https://github.com/davevs)
-- [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
-- [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
+-   [Dave van Stein @davevs](https://github.com/davevs)
+-   [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
+-   [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
 
 Special mentions for helping out:
 
-- [Madhu Akula @madhuakula](https://github.com/madhuakula)
-- [Björn Kimminich @bkimminich](https://github.com/bkimminich)
-- [Xiaolu Dai @saragluna](https://github.com/saragluna)
-- [Jonathan Giles @jonathanGiles](https://github.com/JonathanGiles)
+-   [Madhu Akula @madhuakula](https://github.com/madhuakula)
+-   [Björn Kimminich @bkimminich](https://github.com/bkimminich)
+-   [Xiaolu Dai @saragluna](https://github.com/saragluna)
+-   [Jonathan Giles @jonathanGiles](https://github.com/JonathanGiles)
 
 [Actual contributors at this point in time.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
 
