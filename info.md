@@ -14,8 +14,9 @@
 
 ### Getting Started
 
-* [Github repo](https://github.com/OWASP/wrongsecrets "Github Repository")
-* [Wrongsecrets CTF party repo](https://github.com/OWASP/wrongsecrets-ctf-party "Github Repository")
+* [WrongSecrets github repo](https://github.com/OWASP/wrongsecrets "Github Repository")
+* [WrongSecrets CTF party repo](https://github.com/OWASP/wrongsecrets-ctf-party "Github Repository for CTF party")
+* [WrongSecrets Binary repo](https://github.com/OWASP/wrongsecrets-binaries "Github Repository for Binary challenges")
 * [Online demo env (Heroku)](https://wrongsecrets.herokuapp.com/ "Online demo on a Heroku Dyno")
 * [Sometimes Online CTF demo (Heroku)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a Heroku Dyno, which is not always up")
 * [Online demo (Fly Free)](https://wrongsecrets.fly.dev/ "Online demo on a free Fly instance")
