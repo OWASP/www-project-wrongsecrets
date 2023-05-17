@@ -1,5 +1,5 @@
 ---
-title: Creating passwords
+title: passwords
 layout: col-sidebar
 tab: true
 order: 4
