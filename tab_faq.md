@@ -1,31 +1,32 @@
+First rewrite:
 ---
-title: Notes
+title: Creating passwords
 layout: col-sidebar
 tab: true
 order: 4
 tags: wrongsecrets
 ---
 
-## FAQ's
+## Creating Passwords
+You can create various types of passwords. OWASP WrongSecrets has quite a few of them as an example.
+There are complex passwords, which you can easily create with tools like OpenSSL and/or password managers.
+There are short passphrases, which you can easily remember
+There are longer passphrases with a more extensive set of words involved.
 
-### What are the cautions to be taken while storing secrets?
-When it comes to storing secrets, such as passwords, private keys, and API keys, there are several cautions that you should take to ensure that the secrets are kept secure. Some of the key cautions to consider are:
+### Complex passwords
+Complex passwords can be easily generated securely using tools like OpenSSL (using `openssl rand 20 -base64`) or a password manager. For instance, the generation of challenge 31’s password. The password (SGF2ZSBhIG5pY2UgZGF5) was obtained using random information generated through OpenSSL.
 
-1. **Encryption:** When storing secrets, they should be encrypted. If an attacker gains access to the storage location, they can't read the secrets without the encryption key.
+Of course, we need to reference the [(in)famous XKCD on this topic](https://xkcd.com/936/).
 
+### Short passphrases
+Short passphrases uses short combinations of words. These are easy to think of and easy to remember. The solution to challenge0 is a good example here. Here a short passphrase(The first answer) is used as a solution.
 
-2. **Access control:** Secret storage locations should be tightly controlled and storage locations should only be accessed by authorized personnel and trusted individuals.
+### Longer passphrases
+In other challenges we packed longer passphrases, which are still easy to remember, but do have a lot more entropy to them.
 
+## References
+NIST Digital Identity Guidelines: https://pages.nist.gov/800-63-3/sp800-63b.html
+OWASP Authentication cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html 
 
-3. **Secure storage:** Keep secrets in a secure location that resists physical and logical attacks. Secure file systems, hardware security modules, password managers, or cloud storage are all examples.
-
-
-4. **Regular rotation:** Secrets should be rotated on a regular basis. This reduces the risk of compromise due to long-term exposure and makes it more difficult for attackers to use stolen secrets.
-
-
-5. **Strong passwords:** Passwords used to protect secrets should be strong and unique. They should not be reused across multiple accounts or systems. Make your passwords complex by adding numbers, symbols, and alternating the case of letters, not simple passwords like "Hello world" or "abcd1234". The password "SGF2ZSBhIG5pY2UgZGF5" is a great example.
-
-
-6. **Monitoring:** The storage location should be monitored for any suspicious activity, such as attempts to access the location outside of authorized times or from unauthorized locations.
 
 
