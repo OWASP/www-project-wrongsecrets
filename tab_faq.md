@@ -28,5 +28,3 @@ In other challenges we packed longer passphrases, which are still easy to rememb
 NIST Digital Identity Guidelines: https://pages.nist.gov/800-63-3/sp800-63b.html
 OWASP Authentication cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html 
 
-
-
