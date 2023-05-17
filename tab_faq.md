@@ -1,4 +1,3 @@
-First rewrite:
 ---
 title: Creating passwords
 layout: col-sidebar
