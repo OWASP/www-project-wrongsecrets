@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP WrongSecrets
 tags: wrongsecrets
-level: 4
+level: 3
 type: tool
 pitch: Examples with how to not use secrets
 ---
