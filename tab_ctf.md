@@ -25,6 +25,11 @@ Note that we:
 - A working admin interface which can restart both or delete both (by deleting the full namespace)
 - It can cleanup old & unused namespaces automatically.
 
+You can currently play [OWASP WrongSecrets CTF Party](https://github.com/OWASP/wrongsecrets-ctf-party) using:
+
+- Any k8s setup that allows you to have multiple namespaces (including Minikube), by leveraging our helm charts.
+- AWS, Azure, and GCP by using terraform which is part of the repo.
+
 ## Special thanks
 
 Special thanks to [@commjoen](https://github.com/commjoen), [@madhuakula](https://github.com/madhuakula), [@bendehaan](https://github.com/bendehaan), and [@mikewoudenberg](https://github.com/mikewoudenberg), and [@osamamagdy](https://github.com/osamamagdy) for making this port a reality!
