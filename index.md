@@ -63,16 +63,17 @@ Top contributors:
 
 -   [Nanne Baars @nbaars](https://github.com/nbaars)
 -   [Joss Sparkes @remakingeden](https://github.com/remakingeden)
--   [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
+-   [Marcin Nowak @drnow4u](https://github.com/drnow4u)
 -   [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
 -   [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
 -   [Puneeth Y @puneeth072003](https://github.com/puneeth072003)
+-   [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
+-   [Divyanshu Dev @Novice-expert](https://github.com/Novice-expert)
 -   [Filip Chyla @fchyla](https://github.com/fchyla)
 -   [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 -   [Josh Grossman @tghosth](https://github.com/tghosth)
 -   [Turjo Chowdhury @turjoc120](https://github.com/turjoc120)
 -   [Spyros @northdpole](https://github.com/northdpole)
--   [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
 -   [Ruben Kruiver @RubenAtBinx](https://github.com/RubenAtBinx)
 -   [Shlomo Zalman Heigh @szh](https://github.com/szh)
 -   [Nicolas Humblot @nhumblot](https://github.com/nhumblot)
@@ -84,13 +85,15 @@ Top contributors:
 Testers:
 
 -   [Dave van Stein @davevs](https://github.com/davevs)
--   [Marcin Nowak @MarcinNowak-codes](https://github.com/MarcinNowak-codes)
+-   [Marcin Nowak @MarcinNowak-codes](https://github.com/drnow4u)
 -   [Marc Chang Sing Pang @mchangsp](https://github.com/mchangsp)
+-   [Vineeth Jagadeesh @djvinnie](https://github.com/djvinnie)
 
 Special mentions for helping out:
 
 -   [Madhu Akula @madhuakula](https://github.com/madhuakula)
 -   [Björn Kimminich @bkimminich](https://github.com/bkimminich)
+-   [Dan Gora @devsecops](https://github.com/devsecops)
 -   [Xiaolu Dai @saragluna](https://github.com/saragluna)
 -   [Jonathan Giles @jonathanGiles](https://github.com/JonathanGiles)
 
