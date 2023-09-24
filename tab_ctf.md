@@ -27,7 +27,7 @@ Note that we:
 
 You can currently play [OWASP WrongSecrets CTF Party](https://github.com/OWASP/wrongsecrets-ctf-party) using:
 
-- Any k8s setup that allows you to have multiple namespaces (including Minikube), by leveraging our helm charts.
+- Any k8s setup that allows you to have multiple namespaces (including Minikube), by leveraging our [helm charts](https://owasp.org/wrongsecrets-ctf-party).
 - AWS, Azure, and GCP by using terraform which is part of the repo.
 
 ## Special thanks
