@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP WrongSecrets
 tags: wrongsecrets
-level: 3
+level: 3.5
 type: tool
 pitch: Examples with how to not use secrets
 ---
@@ -61,14 +61,15 @@ Leaders:
 
 Top contributors:
 
--   [Nanne Baars @nbaars](https://github.com/nbaars)
 -   [Joss Sparkes @remakingeden](https://github.com/remakingeden)
--   [Marcin Nowak @drnow4u](https://github.com/drnow4u)
--   [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
--   [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
+-   [Nanne Baars @nbaars](https://github.com/nbaars)
 -   [Puneeth Y @puneeth072003](https://github.com/puneeth072003)
--   [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
+-   [Marcin Nowak @drnow4u](https://github.com/drnow4u)
 -   [Divyanshu Dev @Novice-expert](https://github.com/Novice-expert)
+-   [Tibor Hercz @tiborhercz](https://github.com/tiborhercz)
+-   [Rodolfo Cabral Neves @roddas](https://github.com/roddas)
+-   [Chris Elbring Jr. @neatzsche](https://github.com/neatzsche)
+-   [Mike Woudenberg @mikewoudenberg](https://github.com/mikewoudenberg)
 -   [Filip Chyla @fchyla](https://github.com/fchyla)
 -   [Dmitry Litosh @Dlitosh](https://github.com/Dlitosh)
 -   [Josh Grossman @tghosth](https://github.com/tghosth)
@@ -97,7 +98,9 @@ Special mentions for helping out:
 -   [Xiaolu Dai @saragluna](https://github.com/saragluna)
 -   [Jonathan Giles @jonathanGiles](https://github.com/JonathanGiles)
 
-[Actual contributors at this point in time.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
+[Actual contributors at Wrongsecrets.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
+[Actual contributors at Wrongsecrets-ctf-party.](https://github.com/OWASP/wrongsecrets-ctf-party/graphs/contributors)
+[Actual contributors at Wrongsecrets-binaries.](https://github.com/OWASP/wrongsecrets-binaries/graphs/contributors)
 
 ### Sponsorships
 

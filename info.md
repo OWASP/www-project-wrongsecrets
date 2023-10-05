@@ -1,6 +1,6 @@
 ### Project Information
 
-* <i class="fas fa-flask" style="color:#53AAE5;"></i> Lab Project
+* <i class="fas fa-city" style="color:#53AAE5;"></i> Production Project
 
 #### Classification
 
