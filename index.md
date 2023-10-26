@@ -25,7 +25,7 @@ Want to give it a shot? Go to [our Heroku demo environment](https://wrongsecrets
 
 ## Description
 
-WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 35 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
+WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 40 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
 
 - Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
 - Help you to re-evaluate your own secrets management practices as well.
@@ -55,7 +55,7 @@ Or try to deploy it using free services:
 
 ## Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/graphs/contributors)
+[![GitHub contributors WrongSecrets](https://img.shields.io/github/contributors/OWASP/Wrongsecrets?label=Contributors%20WrongSecrets)](https://github.com/OWASP/wrongsecrets/graphs/contributors) [![GitHub contributors WrongSecrets-ctf-party](https://img.shields.io/github/contributors/OWASP/Wrongsecrets-ctf-party?label=Contributors%20WrongSecrets-ctf-party)](https://github.com/OWASP/wrongsecrets-ctf-party/graphs/contributors) [![GitHub contributors WrongSecrets-binaries](https://img.shields.io/github/contributors/OWASP/Wrongsecrets-binaries?label=Contributors%20WrongSecrets-binaries)](https://github.com/OWASP/wrongsecrets-binaries/graphs/contributors)
 
 Leaders:
 
@@ -65,7 +65,7 @@ Leaders:
 Top contributors:
 
 - [Jannik Hollenbach @J12934](https://www.github.com/J12934)
-- [Puneeth @puneeth072003](https://www.github.com/puneeth072003)
+- [Puneeth Y @puneeth072003](https://www.github.com/puneeth072003)
 - [Joss Sparkes @RemakingEden](https://www.github.com/RemakingEden)
 
 Contributors:
@@ -74,16 +74,16 @@ Contributors:
 - [Marcin Nowak @drnow4u](https://www.github.com/drnow4u)
 - [Rodolfo Cabral Neves @roddas](https://www.github.com/roddas)
 - [Osama Magdy @osamamagdy](https://www.github.com/osamamagdy)
-- [Novice-expert @Novice-expert](https://www.github.com/Novice-expert)
+- [Divyanshu Dev @Novice-expert](https://www.github.com/Novice-expert)
 - [Tibor Hercz @tiborhercz](https://www.github.com/tiborhercz)
-- [Ben de Haan @benno001](https://www.github.com/benno001)
-- [neatzsche @neatzsche](https://www.github.com/neatzsche)
+- [Chris Elbring Jr. @neatzsche](https://www.github.com/neatzsche)
 - [Diamond Rivero @diamant3](https://www.github.com/diamant3)
 - [Adarsh A @adarsh-a-tw](https://www.github.com/adarsh-a-tw)
 - [Filip Chyla @fchyla](https://www.github.com/fchyla)
 - [Dmitry Litosh @Dlitosh](https://www.github.com/Dlitosh)
 - [Turjo Chowdhury @turjoc120](https://www.github.com/turjoc120)
 - [Josh Grossman @tghosth](https://www.github.com/tghosth)
+- [alphasec @alphasecio](https://www.github.com/alphasecio)
 - [Madhu Akula @madhuakula](https://www.github.com/madhuakula)
 - [Mike Woudenberg @mikewoudenberg](https://www.github.com/mikewoudenberg)
 - [Spyros @northdpole](https://www.github.com/northdpole)
@@ -93,7 +93,8 @@ Contributors:
 - [Nicolas Humblot @nhumblot](https://www.github.com/nhumblot)
 - [Rick M @kingthorin](https://www.github.com/kingthorin)
 - [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
-- [f3rn0s @f3rn0s](https://www.github.com/f3rn0s)
+- [Fern @f3rn0s](https://www.github.com/f3rn0s)
+
 
 Testers:
 
@@ -109,10 +110,6 @@ Special thanks:
 - [Dan Gora @devsecops](https://www.github.com/devsecops)
 - [Xiaolu Dai @saragluna](https://www.github.com/saragluna)
 - [Jonathan Giles @jonathanGiles](https://www.github.com/jonathanGiles)
-
-[Actual contributors at Wrongsecrets.](https://github.com/OWASP/wrongsecrets/graphs/contributors)
-[Actual contributors at Wrongsecrets-ctf-party.](https://github.com/OWASP/wrongsecrets-ctf-party/graphs/contributors)
-[Actual contributors at Wrongsecrets-binaries.](https://github.com/OWASP/wrongsecrets-binaries/graphs/contributors)
 
 ### Sponsorships
 
@@ -134,7 +131,7 @@ We would like to thank the following parties for helping us out:
 
 [1Password](https://github.com/1Password/1password-teams-open-source/pull/552) for granting us an open source license to 1Password for the secret detection testbed.
 
-[![AWS Open Source](assets/images/aws-white_48x29.png)](https://aws.amazon.com/)
+[![AWS Open Source](assets/images/aws.svg.png)](https://aws.amazon.com/)
 
 [AWS](https://aws.amazon.com/) for granting us AWS Open Source credits which we use to test our project and the [Wrongsecrets CTF Party](https://github.com/OWASP/wrongsecrets-ctf-party) setup on AWS.
 
@@ -191,7 +188,8 @@ The project has been promoted at:
 - [Azure Cloud Security Meetup: Cloud-Native Secrets Management with OWASP WrongSecrets by Dan Gora](https://www.youtube.com/watch?v=Aafvip8XGDI&t=2505s)
 - [OWASP Benelux Days 2022 - CTF Kickoff](https://www.owaspbenelux.eu/program/conference#Jeroen-Willemsen-and-Ben-De-Haan) with actual [CTF info](https://www.owaspbenelux.eu/program/ctf)
 - [WeHackPurple: Don’t make the same mistakes we did: How you can do secrets management better with OWASP WrongSecrets](https://community.wehackpurple.com/events/dont-make-the-same-mistakes-we-did-how-you-can-do-secrets-management-better-with-owasp-wrongsecrets)
-- Various Blogs: [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Another blog by Gitguardian](https://blog.gitguardian.com/a-beginners-guide-to-owasp/), [Blogs by the author(s)](https://dev.to/commjoen), [A blog by Okteto](https://www.okteto.com/blog/practice-secrets-management-in-kubernetes-with-owasp-wrongsecrets-and-okteto/)
-- Various Podcasts: [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets), [Devsec for scale: Secrets Management Pt 1], (https://www.youtube.com/watch?v=dxgXUQZgUnI), [Devsec for scale: Secrets Management Pt 2](https://www.youtube.com/watch?v=_gY0T9vIl4E), [Devsec for scale: Secrets Management Pt 3](https://www.youtube.com/watch?v=vtUk2bc34AY).
+- Coverage on youtube: [walkthrough by sec right](https://youtu.be/tSQATLTuSqQ?si=DwCnQ4FlQQALGVfZ)
+- Various Blogs: [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Another blog by Gitguardian](https://blog.gitguardian.com/a-beginners-guide-to-owasp/), [Blogs by the author(s)](https://dev.to/commjoen), [A blog by Okteto](https://www.okteto.com/blog/practice-secrets-management-in-kubernetes-with-owasp-wrongsecrets-and-okteto/), [A blog by Nec](https://jpn.nec.com/cybersecurity/blog/230707/index.html), [A blog from vineeth.dj](https://medium.com/@vineeth.dj/owasp-wrongsecrets-writeup-24ad3460be0a).
+- Various Podcasts: [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets), [Devsec for scale: Secrets Management Pt 1](https://www.youtube.com/watch?v=dxgXUQZgUnI), [Devsec for scale: Secrets Management Pt 2](https://www.youtube.com/watch?v=_gY0T9vIl4E), [Devsec for scale: Secrets Management Pt 3](https://www.youtube.com/watch?v=vtUk2bc34AY).
 
 We would like to thank many people that have given a shoutout or a share about this project! Thank you for your forum-posts, blogs, and more!
