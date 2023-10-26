@@ -10,7 +10,7 @@ pitch: Examples with how to not use secrets
 <img src="assets/images/icon.png" alt="logo by Ben de Haan" width="100px" />
 
 [![Github Stars](https://img.shields.io/github/stars/OWASP/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/OWASP/wrongsecrets/stargazers)
-[![OWASP Lab Project](https://img.shields.io/badge/OWASP-lab%20project-48A646.svg)](https://owasp.org/projects/)
+[![OWASP Production Project](https://img.shields.io/badge/OWASP-production%20project-48A646.svg)](https://owasp.org/projects/)
 [![Release version](https://img.shields.io/github/v/release/OWASP/wrongsecrets)](https://github.com/OWASP/wrongsecrets/releases/latest)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7024/badge)](https://bestpractices.coreinfrastructure.org/projects/7024)
 [![Docker pulls](https://img.shields.io/docker/pulls/jeroenwillemsen/wrongsecrets.svg)](https://hub.docker.com/r/jeroenwillemsen/wrongsecrets)
@@ -48,6 +48,7 @@ Otherwise, try one of the following online environments:
 
 Or try to deploy it using free services:
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/OWASP/wrongsecrets) 
+
 [![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/OWASP/wrongsecrets.git&branch=master&filename=okteto/okteto.yml)
 
 
@@ -92,6 +93,7 @@ Contributors:
 - [Rick M @kingthorin](https://www.github.com/kingthorin)
 - [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
 - [Fern @f3rn0s](https://www.github.com/f3rn0s)
+
 
 Testers:
 
