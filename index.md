@@ -7,6 +7,8 @@ type: tool
 pitch: Examples with how to not use secrets
 ---
 
+<!-- Rebuild 001 -->
+
 <img src="assets/images/icon.png" alt="logo by Ben de Haan" width="100px" />
 
 [![Github Stars](https://img.shields.io/github/stars/OWASP/wrongsecrets?label=Stars%20WrongSecrets&style=social)](https://github.com/OWASP/wrongsecrets/stargazers)
