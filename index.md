@@ -49,7 +49,8 @@ Otherwise, try one of the following online environments:
 Or try to deploy it using free services:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/OWASP/wrongsecrets) 
-[Deploy with Railway](https://railway.app/new/template/7pnwRj)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/7pnwRj)
 
 
 ## Contributors
