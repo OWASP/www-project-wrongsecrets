@@ -25,8 +25,6 @@ Want to give it a shot? Go to [our Heroku demo environment](https://wrongsecrets
 
 ![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/images/screenshot.png)
 
-[Deploy with Railway](https://railway.app/new/template/7pnwRj)
-
 ## Description
 
 WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 40 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
@@ -51,6 +49,7 @@ Otherwise, try one of the following online environments:
 Or try to deploy it using free services:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/OWASP/wrongsecrets) 
+[Deploy with Railway](https://railway.app/new/template/7pnwRj)
 
 
 ## Contributors
