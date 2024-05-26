@@ -83,9 +83,9 @@ Contributors:
 - [Adarsh A @adarsh-a-tw](https://www.github.com/adarsh-a-tw)
 - [Shubham Patel @Shubham-Patel07](https://www.github.com/Shubham-Patel07)
 - [Filip Chyla @fchyla](https://www.github.com/fchyla)
-- [Dmitry Litosh @Dlitosh](https://www.github.com/Dlitosh)
-- [Vineeth Jagadeesh @djvinnie](https://www.github.com/djvinnie)
 - [Turjo Chowdhury @turjoc120](https://www.github.com/turjoc120)
+- [Vineeth Jagadeesh @djvinnie](https://www.github.com/djvinnie)
+- [Dmitry Litosh @Dlitosh](https://www.github.com/Dlitosh)
 - [Josh Grossman @tghosth](https://www.github.com/tghosth)
 - [alphasec @alphasecio](https://www.github.com/alphasecio)
 - [CaduRoriz @CaduRoriz](https://www.github.com/CaduRoriz)
@@ -93,12 +93,13 @@ Contributors:
 - [Mike Woudenberg @mikewoudenberg](https://www.github.com/mikewoudenberg)
 - [Spyros @northdpole](https://www.github.com/northdpole)
 - [RubenAtBinx @RubenAtBinx](https://www.github.com/RubenAtBinx)
-- [Alex Bender @alex-bender](https://www.github.com/alex-bender)
-- [Nicolas Humblot @nhumblot](https://www.github.com/nhumblot)
-- [Rick M @kingthorin](https://www.github.com/kingthorin)
-- [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
-- [Fern @f3rn0s](https://www.github.com/f3rn0s)
 - [Jeff Tong @Wind010](https://www.github.com/Wind010)
+- [Fern @f3rn0s](https://www.github.com/f3rn0s)
+- [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
+- [Rick M @kingthorin](https://www.github.com/kingthorin)
+- [Nicolas Humblot @nhumblot](https://www.github.com/nhumblot)
+- [Danny Lloyd @dannylloyd](https://www.github.com/dannylloyd)
+- [Alex Bender @alex-bender](https://www.github.com/alex-bender)
 
 Testers:
 
@@ -195,6 +196,8 @@ The project has been promoted at:
 - [WeHackPurple: Don’t make the same mistakes we did: How you can do secrets management better with OWASP WrongSecrets](https://community.wehackpurple.com/events/dont-make-the-same-mistakes-we-did-how-you-can-do-secrets-management-better-with-owasp-wrongsecrets)
 - [Open Security Summit: OWASP WrongSecrets a journey into secrets management](https://open-security-summit.org/sessions/2024/mini-summits/jan/governance/owasp-wrongsecrets-a-journey-into-secret-management-failures/)
 - [Open Security Summit: OWASP WrongSecrets: Define the future challenges togeter](https://open-security-summit.org/sessions/2024/mini-summits/jan/governance/owasp-wrongsecrets-define-the-future-challenges-together/)
+- [Cyberwisecon: OWASP WrongSecrets: How We Keep on Growing Our Open Source Project](https://events.pinetool.ai/3152/#sessions/102169?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions)
+- [NLUUG: How to (not) Use Secrets with OWASP WrongSecrets](https://nluug.nl/evenementen/nluug/voorjaarsconferentie-2024/talks/ben-de-haan-jeroen-willemsen-how-to-not-use-secrets-with-owasp-wrongsecrets/) [recording from From 2:13](https://www.youtube.com/live/iJGV-SP1vRw?si=PE1rUH-py0GIvkuv)
 - Coverage on youtube: [walkthrough by sec right](https://youtu.be/tSQATLTuSqQ?si=DwCnQ4FlQQALGVfZ)
 - Various Blogs: [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Another blog by Gitguardian](https://blog.gitguardian.com/a-beginners-guide-to-owasp/), [Blogs by the author(s)](https://dev.to/commjoen), [A blog by Okteto](https://www.okteto.com/blog/practice-secrets-management-in-kubernetes-with-owasp-wrongsecrets-and-okteto/), [A blog by Nec](https://jpn.nec.com/cybersecurity/blog/230707/index.html), [A blog from vineeth.dj](https://medium.com/@vineeth.dj/owasp-wrongsecrets-writeup-24ad3460be0a).
 - Various Podcasts: [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets), [Devsec for scale: Secrets Management Pt 1](https://www.youtube.com/watch?v=dxgXUQZgUnI), [Devsec for scale: Secrets Management Pt 2](https://www.youtube.com/watch?v=_gY0T9vIl4E), [Devsec for scale: Secrets Management Pt 3](https://www.youtube.com/watch?v=vtUk2bc34AY).
