@@ -27,7 +27,7 @@ Want to give it a shot? Go to [our Heroku demo environment](https://wrongsecrets
 
 ## Description
 
-WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 40 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
+WrongSecrets is based on Java, Docker, Terraform, and a bit of scripting fun. It contains more than 50 exercises with various wrongly stored or misconfigured secrets - which you need to find. Finding these secrets will
 
 - Help you to look for secrets being misconfigured at your own environment, or target environments for bug bounties.
 - Help you to re-evaluate your own secrets management practices as well.
