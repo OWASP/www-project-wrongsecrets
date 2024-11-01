@@ -21,7 +21,7 @@ pitch: Examples with how to not use secrets
 
 OWASP WrongSecrets is the first Secrets Management-focused vulnerable/p0wnable app! It can be used as a stand-alone game, as part of security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling. It even has a supporting CTF platform to play the game in a larger group.
 
-Want to give it a shot? Go to [our Heroku demo environment](https://wrongsecrets.herokuapp.com/)
+Want to give it a shot? Go to [our demo environment running on Heroku](https://www.wrongsecrets.com/).
 
 ![Image](https://raw.githubusercontent.com/OWASP/wrongsecrets/master/images/screenshot.png)
 
