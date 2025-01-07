@@ -74,18 +74,19 @@ Contributors:
 - [Marcin Nowak @drnow4u](https://www.github.com/drnow4u)
 - [Rodolfo Cabral Neves @roddas](https://www.github.com/roddas)
 - [Osama Magdy @osamamagdy](https://www.github.com/osamamagdy)
+- [Shubham Patel @Shubham-Patel07](https://www.github.com/Shubham-Patel07)
+- [za @za](https://www.github.com/za)
 - [Divyanshu Dev @Novice-expert](https://www.github.com/Novice-expert)
 - [Tibor Hercz @tiborhercz](https://www.github.com/tiborhercz)
-- [za @za](https://www.github.com/za)
 - [Chris Elbring Jr. @neatzsche](https://www.github.com/neatzsche)
+- [Adarsh A @adarsh-a-tw](https://www.github.com/adarsh-a-tw)
 - [Diamond Rivero @diamant3](https://www.github.com/diamant3)
 - [Norbert Wolniak @nwolniak](https://www.github.com/nwolniak)
-- [Adarsh A @adarsh-a-tw](https://www.github.com/adarsh-a-tw)
-- [Shubham Patel @Shubham-Patel07](https://www.github.com/Shubham-Patel07)
 - [Filip Chyla @fchyla](https://www.github.com/fchyla)
-- [Turjo Chowdhury @turjoc120](https://www.github.com/turjoc120)
-- [Vineeth Jagadeesh @djvinnie](https://www.github.com/djvinnie)
 - [Dmitry Litosh @Dlitosh](https://www.github.com/Dlitosh)
+- [Vineeth Jagadeesh @djvinnie](https://www.github.com/djvinnie)
+- [Turjo Chowdhury @turjoc120](https://www.github.com/turjoc120)
+- [SndR @SndR85](https://www.github.com/SndR85)
 - [Josh Grossman @tghosth](https://www.github.com/tghosth)
 - [alphasec @alphasecio](https://www.github.com/alphasecio)
 - [CaduRoriz @CaduRoriz](https://www.github.com/CaduRoriz)
@@ -93,13 +94,13 @@ Contributors:
 - [Mike Woudenberg @mikewoudenberg](https://www.github.com/mikewoudenberg)
 - [Spyros @northdpole](https://www.github.com/northdpole)
 - [RubenAtBinx @RubenAtBinx](https://www.github.com/RubenAtBinx)
-- [Jeff Tong @Wind010](https://www.github.com/Wind010)
-- [Fern @f3rn0s](https://www.github.com/f3rn0s)
-- [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
-- [Rick M @kingthorin](https://www.github.com/kingthorin)
-- [Nicolas Humblot @nhumblot](https://www.github.com/nhumblot)
-- [Danny Lloyd @dannylloyd](https://www.github.com/dannylloyd)
 - [Alex Bender @alex-bender](https://www.github.com/alex-bender)
+- [Danny Lloyd @dannylloyd](https://www.github.com/dannylloyd)
+- [Nicolas Humblot @nhumblot](https://www.github.com/nhumblot)
+- [Rick M @kingthorin](https://www.github.com/kingthorin)
+- [Shlomo Zalman Heigh @szh](https://www.github.com/szh)
+- [Fern @f3rn0s](https://www.github.com/f3rn0s)
+- [Jeff Tong @Wind010](https://www.github.com/Wind010)
 
 Testers:
 
@@ -156,7 +157,7 @@ We would like to thank the following parties for helping us out:
 [![license](https://img.shields.io/github/license/OWASP/wrongsecrets.svg)](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE)
 
 This program is free software: You can redistribute it and/or modify it under the terms of the [AGPLv3 License](https://github.com/OWASP/wrongsecrets/blob/master/LICENSE).
-OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2024.
+OWASP WrongSecrets and any contributions are Copyright © by Jeroen Willemsen & the OWASP WrongSecrets contributors 2020-2025.
 
 ## Want to help out?
 
@@ -199,6 +200,7 @@ The project has been promoted at:
 - [Cyberwisecon: OWASP WrongSecrets: How We Keep on Growing Our Open Source Project](https://events.pinetool.ai/3152/#sessions/102169?referrer%5Bpathname%5D=%2Fsessions&referrer%5Bsearch%5D=&referrer%5Btitle%5D=Sessions)
 - [NLUUG: How to (not) Use Secrets with OWASP WrongSecrets](https://nluug.nl/evenementen/nluug/voorjaarsconferentie-2024/talks/ben-de-haan-jeroen-willemsen-how-to-not-use-secrets-with-owasp-wrongsecrets/) [recording from From 2:13](https://www.youtube.com/live/iJGV-SP1vRw?si=PE1rUH-py0GIvkuv)
 - [ADDO: OWASP WrongSecrets: How We Keep on Growing Our Open Source Project](https://event.alldaydevops.com/event/registration/websitePage:04030226-24b8-49ac-9c30-5671087b28ec?_gl=1*1r8zqhp*_gcl_au*MTkyNDMzMzAxOS4xNzI1NTI1OTY4&session=f7080cbc-c775-4c3d-8c6b-c6cca2158a74)
+- [OWASP Spotlight Series WrongSecrets](https://www.youtube.com/watch?v=inSkNPLDlWo)
 - Coverage on youtube: [walkthrough by sec right](https://youtu.be/tSQATLTuSqQ?si=DwCnQ4FlQQALGVfZ)
 - Various Blogs: [A blog by Gitguardian](https://blog.gitguardian.com/gitguardian-is-proud-sponsor-of-owasp/), [Another blog by Gitguardian](https://blog.gitguardian.com/a-beginners-guide-to-owasp/), [Blogs by the author(s)](https://dev.to/commjoen), [A blog by Okteto](https://www.okteto.com/blog/practice-secrets-management-in-kubernetes-with-owasp-wrongsecrets-and-okteto/), [A blog by Nec](https://jpn.nec.com/cybersecurity/blog/230707/index.html), [A blog from vineeth.dj](https://medium.com/@vineeth.dj/owasp-wrongsecrets-writeup-24ad3460be0a).
 - Various Podcasts: [Application Security Podcast: Jeroen Willemsen & Ben de Haan -- Dirty little secrets](https://appsecpodcast.securityjourney.com/1730684/9864567-jeroen-willemsen-and-ben-de-haan-dirty-little-secrets), [Devsec for scale: Secrets Management Pt 1](https://www.youtube.com/watch?v=dxgXUQZgUnI), [Devsec for scale: Secrets Management Pt 2](https://www.youtube.com/watch?v=_gY0T9vIl4E), [Devsec for scale: Secrets Management Pt 3](https://www.youtube.com/watch?v=vtUk2bc34AY).
