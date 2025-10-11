@@ -1,0 +1,46 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-wrongsecrets
+    platform: slack
+    url: https://owasp.slack.com/archives/C02KQ7D9XHR
+    description: "This channel is dedicated to the :wrongsecrets: OWASP WrongSecrets :wrongsecrets: project:\n<https://github.com/OWASP/wrongsecrets>\n\
+      See <#C039L78LSER|> for git notifications!\n\nLeaders: <@UC3LVF04R>, <@U2E22UQ76>."
+  - name: project-wrongsecrets-dev
+    platform: slack
+    url: https://owasp.slack.com/archives/C039L78LSER
+    description: Git notifications
+leaders:
+  - name: Jeroen Willemsen
+    email: jeroen.willemsen@owasp.org
+    github: commjoen
+  - name: Ben de Haan
+    email: ben.dehaan@owasp.org
+    github: bendehaan
+level: 3.5
+license:
+  - AGPL-3.0
+  - Apache-2.0
+name: OWASP WrongSecrets
+pitch: Examples with how to not use secrets
+repositories:
+  - name: www-project-wrongsecrets
+    url: https://github.com/OWASP/www-project-wrongsecrets
+    description: OWASP Foundation Web Repository
+  - name: wrongsecrets
+    url: https://github.com/OWASP/wrongsecrets
+    description: Vulnerable app with examples showing how to not use secrets
+  - name: wrongsecrets-binaries
+    url: https://github.com/OWASP/wrongsecrets-binaries
+    description: Source code for the Binaries of OWASP WrongSecrets
+  - name: wrongsecrets-ctf-party
+    url: https://github.com/OWASP/wrongsecrets-ctf-party
+    description: Run Capture the Flags and Security Trainings with OWASP WrongSecrets
+tags:
+  - wrongsecrets
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-wrongsecrets
